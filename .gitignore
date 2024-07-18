@@ -39,6 +39,9 @@
 # VS Code
 /.vscode/
 
+# data
+/data/
+
 # results
 /results/
 

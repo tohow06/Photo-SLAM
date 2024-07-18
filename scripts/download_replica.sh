@@ -1,5 +1,5 @@
-mkdir -p ../data
+mkdir -p ../data    
 cd ../data
-wget https://cvg-data.inf.ethz.ch/nice-slam/data/Replica.zip
-unzip Replica.zip
-cd scripts
+wget -c https://cvg-data.inf.ethz.ch/nice-slam/data/Replica.zip
+unzip -o Replica.zip
+cd ../scripts
